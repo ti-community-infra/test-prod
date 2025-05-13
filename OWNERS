@@ -1,5 +1,5 @@
 filters:
-  "README.md"
+  "README.md":
     approvers:
       - purelind
   .*:
