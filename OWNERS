@@ -1,9 +1,8 @@
-reviewers:
-  - wuhuizuo
-  - purelind
-  - hi-rustin
-  - Mini256
-approvers:
-  - ti-chi-bot
-  - wuhuizuo
-  - purelind
+filters:
+  "README.md"
+    approvers:
+      - purelind
+  .*:
+    approvers:
+      - ti-chi-bot
+      - wuhuizuo
