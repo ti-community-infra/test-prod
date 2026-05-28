@@ -1,5 +1,6 @@
 aliases:
   test-approvers:
-    - purelind
-  legacy-team:
+    - ti-chi-bot
     - wuhuizuo
+  docs-team:
+    - purelind

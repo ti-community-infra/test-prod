@@ -1,7 +1,11 @@
 filters:
   "README.md":
     approvers:
+      - purelind
+  "component/.*":
+    approvers:
       - ti-chi-bot
   .*:
     approvers:
-      - purelind
+      - ti-chi-bot
+      - wuhuizuo
